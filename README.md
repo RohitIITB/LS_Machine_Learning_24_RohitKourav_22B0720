@@ -1,1 +1,1 @@
-# LS_Machine_Learning_24_RohitKourav_22B0720
+This is repository for assignments that I have done as per course Machine Learning under Learners Space
